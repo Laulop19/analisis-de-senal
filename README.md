@@ -1,7 +1,8 @@
 # analisis-de-senal
 # Obtención de la Señal Fisiológica
 
-Se accedió a bases de datos de señales fisiológicas PhysioNet, se seleccionó y descargó una señal fisiológica adecuada para el análisis. Descargamos únicamente archivos `.hea` y `.dat`.
+Se accedió a bases de datos de señales fisiológicas PhysioNet, se seleccionó y descargó una señal fisiológica adecuada para el análisis. Descargamos únicamente archivos `.hea` y `.dat`. 
+Esta base de datos incluye 35 registros de ECG de ocho minutos de sujetos humanos que experimentaron episodios de taquicardia ventricular sostenida, aleteo ventricular y fibrilación ventricular.
 
 ## Importación y Visualización de la Señal
 
